@@ -1,0 +1,23 @@
+*{
+margin:0;
+padding:0;
+}
+
+.home{
+background-image:url(./images/technical.jpg);
+height:100vh;
+width:100vw;
+background-size:cover;
+background-repeat:no-repeat;
+position:relative;
+display: flex;
+}
+.dp{
+
+width:250px;
+height:250px;
+margin:auto;
+
+}
+.intro{
+}
